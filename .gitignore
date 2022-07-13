@@ -1,0 +1,11 @@
+node_modules
+a.exe
+Makefile
+package-lock.json
+package.json
+task.bat
+task.o
+task.out
+task.sh
+task.test.js
+info.md
